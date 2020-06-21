@@ -1,4 +1,4 @@
-# Login-validation-with-php7
+# Descrição do projeto
 App-web dinâmica simples de anotações com validação de login usando PHP 7 e WAMP/XAMPP, utilizando autentição por sessão e um controle de perfil de acesso.
 
 # Layout

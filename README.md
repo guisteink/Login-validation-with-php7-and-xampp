@@ -14,4 +14,4 @@ App-web dinâmica simples de anotações com validação de login usando PHP 7 e
  - CSS
  - HTML
  - VS Code
- - WAM
+ - WAMP/XAMPP
